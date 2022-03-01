@@ -1,0 +1,6 @@
+100
+JALR R3
+LW R2, 4(R0)
+SW R7, 8(R0)
+NEG R4, R3
+ADD R5, R4, R6

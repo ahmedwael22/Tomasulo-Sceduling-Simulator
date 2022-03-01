@@ -1,0 +1,5 @@
+12
+ADDI R2, R2, 1
+BEQ R2, R5, 2
+BEQ R2, R2, -2
+NEG R2, R2
